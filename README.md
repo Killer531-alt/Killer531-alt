@@ -11,7 +11,7 @@
 
 <!-- Banner -->
 <div align="center">
-  <img src="[https://user-images.githubusercontent.com/placeholder/banner.jpg](https://github.com/Killer531-alt/Killer531-alt/blob/5cd960c1b09ba682fcf0d4d5166d85c541071e8f/Banner.png)" alt="Banner de KillerDev" width="100%" />
+  <img src="https://user-images.githubusercontent.com/placeholder/banner.jpg" alt="Banner de KillerDev" width="100%" />
 </div>
 
 ---
