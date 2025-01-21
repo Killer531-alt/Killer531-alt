@@ -11,7 +11,7 @@
 
 <!-- Banner -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/banner.jpg" alt="Banner de KillerDev" width="100%" />
+  <img src="https://github.com/Killer531-alt/Killer531-alt/blob/b8a613dfa444106c12b01c59530f4a9f1b4bc578/Banner.png" alt="Banner de KillerDev" width="100%" />
 </div>
 
 ---
@@ -76,11 +76,8 @@ _"No hay límites cuando la creatividad se une con la tecnología."_ – **Kille
 
 ## 📫 Conéctate Conmigo
 <div align="center">
-  <a href="[https://linkedin.com/in/killerdev](https://www.linkedin.com/in/baracaldo-caicedo-johan-david-327b17224/)" target="_blank">
+  <a href="https://www.linkedin.com/in/baracaldo-caicedo-johan-david-327b17224/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="[https://twitter.com/killerdev](https://github.com/Killer531-alt)" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="mailto:davibaca30@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
